@@ -1,5 +1,5 @@
 # Financial-Dashboard
-#OVERVIEW
+# Overview
 This financial dashboard project provides a comprehensive overview of key financial metrics and insights. Designed to assist users in making informed financial decisions, the dashboard offers a user-friendly interface with intuitive visualizations.
 # Project Name
 Long Description about project. This project do that. This project is awesome...
@@ -29,6 +29,9 @@ pandas
 pip install streamlit
 pip install plotly
 pip install os-sys
+## HOW TO RUN
+change the directory to the ones to which you are saving the default csv file "Superstore.csv"
+
 pip install pandas
 ## How to Run
 provide an a dataset of type :
